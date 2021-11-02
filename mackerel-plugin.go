@@ -1,5 +1,5 @@
 package mackerelplugin
-
+//
 import (
 	"crypto/sha1"
 	"encoding/json"
